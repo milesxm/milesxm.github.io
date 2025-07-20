@@ -114,10 +114,10 @@ analytics:
 # Site Author
 author:
   name             : "Miles Murphy"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  avatar           : "/assets/profile.JPEG"
+  bio              : "Graduate Physics student starting a PhD in Quantum Technology Engineering at the University of Southampton. Passionate about macroscopic quantum systems."
+  location         : "London / Southampton, UK"
+  email            : "mm4n21@soton.ac.uk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
