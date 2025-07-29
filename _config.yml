@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Miles Murphy"
-  avatar           : "/assets/profile.JPEG"
+  avatar           : "/assets/images/profile.JPEG"
   bio              : "Graduate Physics student starting a PhD in Quantum Technology Engineering at the University of Southampton. Passionate about macroscopic quantum systems."
   location         : "London / Southampton, UK"
   email            : "mm4n21@soton.ac.uk"
