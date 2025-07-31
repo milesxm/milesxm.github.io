@@ -88,6 +88,12 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Photography"
+    url: "/Photography/"
+
 # Social Sharing
 twitter:
   username               :
