@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: gallery
 title: "Photos"
 permalink: /photos/
 author_profile: true
@@ -13,5 +13,3 @@ gallery:
     alt: "Description of photo 2"
     title: "Physics Building University of Innsbruck"
 ---
-
-{% include gallery %}
