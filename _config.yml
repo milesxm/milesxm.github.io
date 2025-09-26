@@ -19,9 +19,9 @@ locale                   : "en-UK"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Miles Murphy"
 title_separator          : "-"
-subtitle                 : "Physics Graduate"
+subtitle                 : "Postgraduate Researcher at the University of Southampton"
 name                     : "Miles Murphy"
-description              : "An amazing website."
+description              : "Personal site"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -121,7 +121,7 @@ analytics:
 author:
   name       : "Miles Murphy"
   avatar     : "/assets/images/profile.JPEG"
-  bio        : "Graduate Physics student starting a PhD in Quantum Technology Engineering at the University of Southampton. Passionate about macroscopic quantum systems."
+  bio        : "Postgraduate Researcher at the University of Southampton. EPSRC Quantum Technology Engineering CDT Student"
   location   : "London / Southampton, UK"
   email      : "mm4n21@soton.ac.uk"
   links:
