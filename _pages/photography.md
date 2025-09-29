@@ -3,6 +3,8 @@ title: "Photos"
 layout: single
 permalink: /photography/
 
+---
+
 {% include gallery id="gallery1" caption="My Photography" %}
 
 <div class="gallery" id="gallery1">
@@ -10,4 +12,3 @@ permalink: /photography/
   <img src="/assets/images/photo2.JPEG" alt="Photo2">
 </div>
 
----
