@@ -10,3 +10,4 @@ permalink: /photography/
   <img src="/assets/images/photo2.JPEG" alt="Photo2">
 </div>
 
+---
