@@ -92,7 +92,7 @@ nav:
   - title: "Home"
     url: "/"
   - title: "Photography"
-    url: "/Photography/"
+    url: "/photography/"
 
 # Social Sharing
 twitter:
