@@ -93,6 +93,8 @@ nav:
     url: "/"
   - title: "Photography"
     url: "/photography/"
+  - title: "Reading List"
+    url : "/readinglist/"
 
 # Social Sharing
 twitter:
