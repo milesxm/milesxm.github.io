@@ -5,7 +5,7 @@ permalink: /photography/
 
 ---
 
-{% include gallery id="gallery1" caption="My Photography" %}
+{% include gallery id="gallery1" caption="Photography P" %}
 
 <div class="gallery" id="gallery1">
   <img src="/assets/images/photo1.JPEG" alt="Photo1">

@@ -1,6 +1,8 @@
 ---
 layout: home
-author_profile: False
+author_profile: false
+sidebar:
+    - none
 title: "Welcome"
 permalink: /
 header:
