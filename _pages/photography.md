@@ -1,15 +1,12 @@
 ---
-layout: gallery
 title: "Photos"
+layout: single
 permalink: /photography/
-author_profile: true
-gallery:
-  - url: /assets/images/photo1.jpg
-    image_path: /assets/images/photo1.JPEG
-    alt: "Description of photo 1"
-    title: "Photo 1"
-  - url: /assets/images/photo2.jpg
-    image_path: /assets/images/photo2.JPEG
-    alt: "Description of photo 2"
-    title: "Physics Building University of Innsbruck"
----
+
+{% include gallery id="gallery1" caption="My Photography" %}
+
+<div class="gallery" id="gallery1">
+  <img src="/assets/images/photo1.JPEG" alt="Photo1">
+  <img src="/assets/images/photo2.JPEG" alt="Photo2">
+</div>
+
